@@ -1,2 +1,0 @@
-# LZW
- compression and decompression
