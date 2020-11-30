@@ -1,5 +1,5 @@
 # LZW
-LZW Compressor Program Design:
+# LZW Compressor Program Design:
 • In compressior.py the line import argparse imports the argparse module in order to pass bit length and filename as a command line argument.
 • To specify the bit length, we use args.bitlength which reads the input passed as a command line argument.
 • But the bit length can be < 9 or >16 and since the instructions were that the bit length should be > 9 and < 16 we need an if condition to check for bit length.
