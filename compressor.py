@@ -1,7 +1,6 @@
 '''
 LZW Compressor Program
 Name: Sharath Kancharla
-Student Id: 801165873
 '''
 
 import sys
