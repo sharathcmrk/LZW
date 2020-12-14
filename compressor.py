@@ -1,6 +1,6 @@
 '''
 LZW Compressor Program
-Name: Sharath Kancharla
+@author: Sharath Kancharla
 '''
 
 import sys
